@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"
 description = "Efficient binary serialization for PLATO tiles optimized for low-bandwidth links"
+repository = "https://github.com/SuperInstance/plato-serialize"
+homepage = "https://github.com/SuperInstance/plato-serialize"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
